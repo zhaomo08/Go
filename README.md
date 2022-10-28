@@ -17,4 +17,4 @@ Go 入门的学习笔记，从零开始学 Go，做一个 Go 工程师。
 
 ## 学习交流
 
-![联系作者](https://i.loli.net/2021/07/02/cwiLQ13CRgJIS86.jpg)
+![联系作者](https://t.me/SayMeeveTime)
