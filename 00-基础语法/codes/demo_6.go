@@ -1,4 +1,3 @@
-
 //demo_6.go
 
 package main
@@ -8,11 +7,11 @@ import (
 )
 
 func main() {
-	var arr =  [5] int {1, 2, 3, 4, 5}
-	modifyArr(&arr)
+	var arr = [5]int{1, 2, 3, 4, 5}
+	modifyArrByPointer(&arr)
 	fmt.Println(arr)
 }
 
-func modifyArr(a *[5] int){
+func modifyArrByPointer(a *[5]int) {
 	a[1] = 20
 }
