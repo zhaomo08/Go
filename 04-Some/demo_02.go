@@ -11,12 +11,12 @@ func modify1(a *int) {
 	return
 
 }
-
 func main() {
 	a := 5
 	b := make(chan int, 1)
 	fmt.Println("a= ", a)
 	fmt.Println("b= ", b)
+	fmt.Scanf("%d")
 
 	modify(a)
 	fmt.Println("a= ", a)
