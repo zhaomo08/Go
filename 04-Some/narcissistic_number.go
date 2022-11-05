@@ -22,7 +22,6 @@ func main() {
 		if isNumber(i) == true {
 			fmt.Println(i)
 		}
-
 	}
 
 }
