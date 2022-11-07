@@ -15,6 +15,7 @@ Go 入门的学习笔记，从零开始学 Go，做一个 Go 工程师。
 - [gRPC - Hello World](https://github.com/xinliangnote/Go/blob/master/02-Go%20gRPC/codes/01-gRPC%20Hello%20World)
 - :star: [练手项目 - 基于 gin 封装](https://github.com/xinliangnote/go-gin-api)
 
+- go get -u github.com/gorilla/mux
 ## 学习交流
 
 ![联系作者](https://t.me/SayMeeveTime)
